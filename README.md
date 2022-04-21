@@ -7,4 +7,4 @@
 
 ## Arena
 
-* Historic Brawl
+* [Historic Brawl](Historic_Brawl)
