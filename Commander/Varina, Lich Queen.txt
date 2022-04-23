@@ -3,7 +3,7 @@
 1x Anguished Unmaking (soi) [Single Target Removal,Non-Permanent,Instant] 
 1x Anointed Procession (plist) [Support Theme,Non-Creature Permanent,Enchantment] 
 1x Archaeomancer (c17) [Protection,Creature] 
-1x Athreos, God of Passage (jou) [Protection,Creature] 
+1x Athreos, God of Passage (jou) [Protection,Enchantment,Creature] 
 1x Beacon of Unrest (c19) [Protection,Non-Permanent,Sorcery] 
 1x Bojuka Bog (c19) [Mass Removal,Colored Mana Land,Mana Land,Land] 
 1x Bone Miser (c19) [Support Theme,Card Draw,Ramp,Creature] 
