@@ -8,5 +8,6 @@
 # Commander Information
 
 * 100 Card, Singleton Format
-* [Rules](https://mtg.fandom.com/wiki/Brawl)
-* [Banned Pioneer List](https://mtg.fandom.com/wiki/Pioneer#Banned_List) + [Bannder Commander List](https://mtgcommander.net/index.php/banned-list/)
+* [Rules](https://mtgcommander.net/index.php/rules/)
+* [Banned List](https://mtgcommander.net/index.php/banned-list/)
+* [Helpful Resource](https://edhrec.com)
