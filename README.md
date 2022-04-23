@@ -3,7 +3,7 @@
 ## Paper
 
 * [Commander](Commander)
-* Pioneer Brawl
+* [Pioneer Brawl](Pioneer_Brawl)
 
 ## Arena
 
